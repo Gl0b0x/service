@@ -1,0 +1,26 @@
+Application pId 16212 have been started by user 79195 in session 1 at 
+Session ID: 65536
+Session State: 6
+Application pId 0 have been started by user  in session 65536 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Application pId 11216 have been started by user Администратор in session 2 at 
+Session ID: 3
+Session State: 0
+Application pId 20640 have been started by user 79195 in session 3 at 
+Session ID: 65536
+Session State: 6
+Application pId 0 have been started by user  in session 65536 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
